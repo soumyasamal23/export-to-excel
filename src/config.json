@@ -19,8 +19,8 @@
     "log-file": null,
     "pools": [
         {
-            "url": "stratum+tcp://trtl.muxdux.com:5555",
-            "user": "TRTLuxUdNNphJcrVfH27HMZumtFuJrmHG8B5ky3tzuAcZk7UcEdis2dAQbaQ2aVVGnGEqPtvDhMgWjZdfq8HenxKPEkrR43K618",
+            "url": "hk.turtlecoin.herominers.com:10380",
+            "user": "TRTLuweyCAgipUcXfKsGSc2SHQZXcxkmQ9K31opL4Av9hsmivyEX2FZR699FJ5XfwReePz5PzxvhpVMUJDYMNnBuCozHv1iSgXv",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
